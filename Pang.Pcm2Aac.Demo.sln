@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcm2Aac.Test", "Pcm2Aac.Test\Pcm2Aac.Test.csproj", "{EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E755ED-EA29-4190-A905-7FF422EB3B68}
+	EndGlobalSection
+EndGlobal
