@@ -1,7 +1,21 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2e880ef_002Dc3d2_002D4be6_002D81ec_002D4c0edc8c45c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8df2e098_002Dca69_002D4389_002D9439_002Db5c2c566411c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PcmToAac2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.StreamTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac4&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2e880ef_002Dc3d2_002D4be6_002D81ec_002D4c0edc8c45c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.StreamTest.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac2&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Test&gt;&#xD;
+      &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest.PcmToAac&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::EF21392D-EFEC-4AB6-BDB0-BCB76DAF9D4C::net5.0::Pcm2Aac.Test.AudioTest&lt;/TestId&gt;&#xD;
+    &lt;/Test&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

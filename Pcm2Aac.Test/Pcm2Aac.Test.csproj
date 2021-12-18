@@ -21,6 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Files\1.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Files\testpacket.pcm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
